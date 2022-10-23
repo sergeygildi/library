@@ -30,28 +30,30 @@
 
 ### Примеры
 #### Страница со списком всех людей
-![](../../../Desktop/Снимок экрана 2022-10-23 в 11.38.36.png)
+<img src="images/:people.png" alt="Страница со списком всех людей"/>
 
 #### Страница добавления человека
-![](../../../../../var/folders/h4/wltywfns6mvdch844jlb7rqm0000gp/T/TemporaryItems/NSIRD_screencaptureui_lFHtH3/Снимок экрана 2022-10-23 в 11.49.31.png)
+<img src="images/:people:add.png" alt="Страница добавления человека"/>
 
 #### Страница изменения человека
-![](../../../../../var/folders/h4/wltywfns6mvdch844jlb7rqm0000gp/T/TemporaryItems/NSIRD_screencaptureui_XmHng5/Снимок экрана 2022-10-23 в 11.50.10.png)
+<img src="images/:people:{id}:edit.png" alt="Страница изменения человека"/>
 
 #### Страница со списком всех книг
-![](../../../../../var/folders/h4/wltywfns6mvdch844jlb7rqm0000gp/T/TemporaryItems/NSIRD_screencaptureui_TvEE1R/Снимок экрана 2022-10-23 в 11.50.45.png)
+<img src="images/:books.png" alt="Страница со списком всех книг"/>
 
 #### Страница добавления книги
-![](../../../../../var/folders/h4/wltywfns6mvdch844jlb7rqm0000gp/T/TemporaryItems/NSIRD_screencaptureui_KBRuzi/Снимок экрана 2022-10-23 в 11.51.09.png)
+<img src="images/:books:new.png" alt="Страница добавления книги"/>
 
 #### Страница изменения книги
-![](../../../../../var/folders/h4/wltywfns6mvdch844jlb7rqm0000gp/T/TemporaryItems/NSIRD_screencaptureui_reyp0s/Снимок экрана 2022-10-23 в 11.51.33.png)
+<img src="images/:books:{id}:edit.png" alt="Страница изменения книги"/>
 
 #### Страница человека
-![](../../../../../var/folders/h4/wltywfns6mvdch844jlb7rqm0000gp/T/TemporaryItems/NSIRD_screencaptureui_EEqA5d/Снимок экрана 2022-10-23 в 11.52.25.png)
+<img src="images/:people:{id}.png" alt="Страница человека"/>
 
 #### Страница книги
-![](../../../../../var/folders/h4/wltywfns6mvdch844jlb7rqm0000gp/T/TemporaryItems/NSIRD_screencaptureui_YQbDMi/Снимок экрана 2022-10-23 в 11.52.56.png)
+<img src="images/:book:{id}_1.png" alt="Страница книги"/>
 
-#### Страница книги 
-![](../../../../../var/folders/h4/wltywfns6mvdch844jlb7rqm0000gp/T/TemporaryItems/NSIRD_screencaptureui_6QiQki/Снимок экрана 2022-10-23 в 11.53.21.png)
+#### Страница книги
+<img src="images/:books:{id}_2.png" alt="Страница книги"/>
+
+---
